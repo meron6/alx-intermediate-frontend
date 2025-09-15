@@ -1,0 +1,8 @@
+$primary-color: #3498db;
+$font-stack: 'Segoe UI', sans-serif;
+$padding: 16px;
+
+@debug "Primary color is #{$primary-color}";
+@debug "Font stack is #{$font-stack}";
+@debug "Padding is #{$padding}";
+

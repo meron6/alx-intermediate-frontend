@@ -1,0 +1,8 @@
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.7/install.sh | bash
+exit
+command -v nvm
+nvm install 20.16.0
+node -v
+npm -v
+npm install -g sass@3.7.4
+sass --version
